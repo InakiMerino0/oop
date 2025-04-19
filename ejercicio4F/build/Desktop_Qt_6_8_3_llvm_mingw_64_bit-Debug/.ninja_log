@@ -1,0 +1,86 @@
+# ninja log v6
+9	1309	7657669886081560	ejercicio4_autogen/timestamp	6d5d6f1c247c450e
+9	1309	7657669886081560	ejercicio4_autogen/mocs_compilation.cpp	6d5d6f1c247c450e
+9	1309	7657669886081560	D:/UBP/5 POO/Ejercicios/ejercicio4/build/Desktop_Qt_6_8_3_llvm_mingw_64_bit-Debug/ejercicio4_autogen/timestamp	6d5d6f1c247c450e
+9	1309	7657669886081560	D:/UBP/5 POO/Ejercicios/ejercicio4/build/Desktop_Qt_6_8_3_llvm_mingw_64_bit-Debug/ejercicio4_autogen/mocs_compilation.cpp	6d5d6f1c247c450e
+1318	4059	7657669887132465	CMakeFiles/ejercicio4.dir/ejercicio4_autogen/mocs_compilation.cpp.obj	2fe5142d2c671d8e
+1325	4112	7657669887132465	CMakeFiles/ejercicio4.dir/widget.cpp.obj	c41373bd664eec8b
+1321	4232	7657669887132465	CMakeFiles/ejercicio4.dir/main.cpp.obj	38281d03a10b0491
+4233	4385	7657669916345024	ejercicio4.exe	96acac5e67787418
+64	275	7657671019439103	ejercicio4_autogen/timestamp	6d5d6f1c247c450e
+64	275	7657671019439103	ejercicio4_autogen/mocs_compilation.cpp	6d5d6f1c247c450e
+64	275	7657671019439103	D:/UBP/5 POO/Ejercicios/ejercicio4/build/Desktop_Qt_6_8_3_llvm_mingw_64_bit-Debug/ejercicio4_autogen/timestamp	6d5d6f1c247c450e
+64	275	7657671019439103	D:/UBP/5 POO/Ejercicios/ejercicio4/build/Desktop_Qt_6_8_3_llvm_mingw_64_bit-Debug/ejercicio4_autogen/mocs_compilation.cpp	6d5d6f1c247c450e
+280	2733	7657671021596748	CMakeFiles/ejercicio4.dir/widget.cpp.obj	c41373bd664eec8b
+276	2815	7657671021556781	CMakeFiles/ejercicio4.dir/main.cpp.obj	38281d03a10b0491
+2815	2923	7657671046954910	ejercicio4.exe	96acac5e67787418
+42	234	7657673217004025	ejercicio4_autogen/timestamp	6d5d6f1c247c450e
+42	234	7657673217004025	ejercicio4_autogen/mocs_compilation.cpp	6d5d6f1c247c450e
+42	234	7657673217004025	D:/UBP/5 POO/Ejercicios/ejercicio4/build/Desktop_Qt_6_8_3_llvm_mingw_64_bit-Debug/ejercicio4_autogen/timestamp	6d5d6f1c247c450e
+42	234	7657673217004025	D:/UBP/5 POO/Ejercicios/ejercicio4/build/Desktop_Qt_6_8_3_llvm_mingw_64_bit-Debug/ejercicio4_autogen/mocs_compilation.cpp	6d5d6f1c247c450e
+238	2636	7657673218973777	CMakeFiles/ejercicio4.dir/widget.cpp.obj	c41373bd664eec8b
+235	2734	7657673218943746	CMakeFiles/ejercicio4.dir/main.cpp.obj	38281d03a10b0491
+2734	2903	7657673243895655	ejercicio4.exe	96acac5e67787418
+32	236	7657673898879326	ejercicio4_autogen/timestamp	6d5d6f1c247c450e
+32	236	7657673898879326	ejercicio4_autogen/mocs_compilation.cpp	6d5d6f1c247c450e
+32	236	7657673898879326	D:/UBP/5 POO/Ejercicios/ejercicio4/build/Desktop_Qt_6_8_3_llvm_mingw_64_bit-Debug/ejercicio4_autogen/timestamp	6d5d6f1c247c450e
+32	236	7657673898879326	D:/UBP/5 POO/Ejercicios/ejercicio4/build/Desktop_Qt_6_8_3_llvm_mingw_64_bit-Debug/ejercicio4_autogen/mocs_compilation.cpp	6d5d6f1c247c450e
+240	2710	7657673900959560	CMakeFiles/ejercicio4.dir/widget.cpp.obj	c41373bd664eec8b
+236	2796	7657673900919542	CMakeFiles/ejercicio4.dir/main.cpp.obj	38281d03a10b0491
+2796	2902	7657673926447129	ejercicio4.exe	96acac5e67787418
+45	241	7657674687181022	ejercicio4_autogen/timestamp	6d5d6f1c247c450e
+45	241	7657674687181022	ejercicio4_autogen/mocs_compilation.cpp	6d5d6f1c247c450e
+45	241	7657674687181022	D:/UBP/5 POO/Ejercicios/ejercicio4/build/Desktop_Qt_6_8_3_llvm_mingw_64_bit-Debug/ejercicio4_autogen/timestamp	6d5d6f1c247c450e
+45	241	7657674687181022	D:/UBP/5 POO/Ejercicios/ejercicio4/build/Desktop_Qt_6_8_3_llvm_mingw_64_bit-Debug/ejercicio4_autogen/mocs_compilation.cpp	6d5d6f1c247c450e
+245	2695	7657674689171450	CMakeFiles/ejercicio4.dir/widget.cpp.obj	c41373bd664eec8b
+241	2785	7657674689141463	CMakeFiles/ejercicio4.dir/main.cpp.obj	38281d03a10b0491
+2786	2894	7657674714554532	ejercicio4.exe	96acac5e67787418
+32	224	7657675961647683	ejercicio4_autogen/timestamp	6d5d6f1c247c450e
+32	224	7657675961647683	ejercicio4_autogen/mocs_compilation.cpp	6d5d6f1c247c450e
+32	224	7657675961647683	D:/UBP/5 POO/Ejercicios/ejercicio4/build/Desktop_Qt_6_8_3_llvm_mingw_64_bit-Debug/ejercicio4_autogen/timestamp	6d5d6f1c247c450e
+32	224	7657675961647683	D:/UBP/5 POO/Ejercicios/ejercicio4/build/Desktop_Qt_6_8_3_llvm_mingw_64_bit-Debug/ejercicio4_autogen/mocs_compilation.cpp	6d5d6f1c247c450e
+229	2662	7657675963615056	CMakeFiles/ejercicio4.dir/widget.cpp.obj	c41373bd664eec8b
+31	193	7657676238325107	ejercicio4_autogen/timestamp	6d5d6f1c247c450e
+31	193	7657676238325107	ejercicio4_autogen/mocs_compilation.cpp	6d5d6f1c247c450e
+31	193	7657676238325107	D:/UBP/5 POO/Ejercicios/ejercicio4/build/Desktop_Qt_6_8_3_llvm_mingw_64_bit-Debug/ejercicio4_autogen/timestamp	6d5d6f1c247c450e
+31	193	7657676238325107	D:/UBP/5 POO/Ejercicios/ejercicio4/build/Desktop_Qt_6_8_3_llvm_mingw_64_bit-Debug/ejercicio4_autogen/mocs_compilation.cpp	6d5d6f1c247c450e
+197	2798	7657676239988099	CMakeFiles/ejercicio4.dir/widget.cpp.obj	c41373bd664eec8b
+32	199	7657676546818158	ejercicio4_autogen/timestamp	6d5d6f1c247c450e
+32	199	7657676546818158	ejercicio4_autogen/mocs_compilation.cpp	6d5d6f1c247c450e
+32	199	7657676546818158	D:/UBP/5 POO/Ejercicios/ejercicio4/build/Desktop_Qt_6_8_3_llvm_mingw_64_bit-Debug/ejercicio4_autogen/timestamp	6d5d6f1c247c450e
+32	199	7657676546818158	D:/UBP/5 POO/Ejercicios/ejercicio4/build/Desktop_Qt_6_8_3_llvm_mingw_64_bit-Debug/ejercicio4_autogen/mocs_compilation.cpp	6d5d6f1c247c450e
+202	2683	7657676548515714	CMakeFiles/ejercicio4.dir/widget.cpp.obj	c41373bd664eec8b
+32	193	7657676895837927	ejercicio4_autogen/timestamp	6d5d6f1c247c450e
+32	193	7657676895837927	ejercicio4_autogen/mocs_compilation.cpp	6d5d6f1c247c450e
+32	193	7657676895837927	D:/UBP/5 POO/Ejercicios/ejercicio4/build/Desktop_Qt_6_8_3_llvm_mingw_64_bit-Debug/ejercicio4_autogen/timestamp	6d5d6f1c247c450e
+32	193	7657676895837927	D:/UBP/5 POO/Ejercicios/ejercicio4/build/Desktop_Qt_6_8_3_llvm_mingw_64_bit-Debug/ejercicio4_autogen/mocs_compilation.cpp	6d5d6f1c247c450e
+196	2593	7657676897483068	CMakeFiles/ejercicio4.dir/widget.cpp.obj	c41373bd664eec8b
+37	202	7657676996569103	ejercicio4_autogen/timestamp	6d5d6f1c247c450e
+37	202	7657676996569103	ejercicio4_autogen/mocs_compilation.cpp	6d5d6f1c247c450e
+37	202	7657676996569103	D:/UBP/5 POO/Ejercicios/ejercicio4/build/Desktop_Qt_6_8_3_llvm_mingw_64_bit-Debug/ejercicio4_autogen/timestamp	6d5d6f1c247c450e
+37	202	7657676996569103	D:/UBP/5 POO/Ejercicios/ejercicio4/build/Desktop_Qt_6_8_3_llvm_mingw_64_bit-Debug/ejercicio4_autogen/mocs_compilation.cpp	6d5d6f1c247c450e
+205	2705	7657676998243485	CMakeFiles/ejercicio4.dir/widget.cpp.obj	c41373bd664eec8b
+52	242	7657679408398234	ejercicio4_autogen/timestamp	6d5d6f1c247c450e
+52	242	7657679408398234	ejercicio4_autogen/mocs_compilation.cpp	6d5d6f1c247c450e
+52	242	7657679408398234	D:/UBP/5 POO/Ejercicios/ejercicio4/build/Desktop_Qt_6_8_3_llvm_mingw_64_bit-Debug/ejercicio4_autogen/timestamp	6d5d6f1c247c450e
+52	242	7657679408398234	D:/UBP/5 POO/Ejercicios/ejercicio4/build/Desktop_Qt_6_8_3_llvm_mingw_64_bit-Debug/ejercicio4_autogen/mocs_compilation.cpp	6d5d6f1c247c450e
+246	2734	7657679410333853	CMakeFiles/ejercicio4.dir/widget.cpp.obj	c41373bd664eec8b
+33	235	7657680018322858	ejercicio4_autogen/timestamp	6d5d6f1c247c450e
+33	235	7657680018322858	ejercicio4_autogen/mocs_compilation.cpp	6d5d6f1c247c450e
+33	235	7657680018322858	D:/UBP/5 POO/Ejercicios/ejercicio4/build/Desktop_Qt_6_8_3_llvm_mingw_64_bit-Debug/ejercicio4_autogen/timestamp	6d5d6f1c247c450e
+33	235	7657680018322858	D:/UBP/5 POO/Ejercicios/ejercicio4/build/Desktop_Qt_6_8_3_llvm_mingw_64_bit-Debug/ejercicio4_autogen/mocs_compilation.cpp	6d5d6f1c247c450e
+239	2684	7657680020373631	CMakeFiles/ejercicio4.dir/widget.cpp.obj	c41373bd664eec8b
+37	225	7657680419197380	ejercicio4_autogen/timestamp	6d5d6f1c247c450e
+37	225	7657680419197380	ejercicio4_autogen/mocs_compilation.cpp	6d5d6f1c247c450e
+37	225	7657680419197380	D:/UBP/5 POO/Ejercicios/ejercicio4/build/Desktop_Qt_6_8_3_llvm_mingw_64_bit-Debug/ejercicio4_autogen/timestamp	6d5d6f1c247c450e
+37	225	7657680419197380	D:/UBP/5 POO/Ejercicios/ejercicio4/build/Desktop_Qt_6_8_3_llvm_mingw_64_bit-Debug/ejercicio4_autogen/mocs_compilation.cpp	6d5d6f1c247c450e
+230	2627	7657680421128187	CMakeFiles/ejercicio4.dir/widget.cpp.obj	c41373bd664eec8b
+226	2800	7657680421088199	CMakeFiles/ejercicio4.dir/main.cpp.obj	38281d03a10b0491
+2800	2918	7657680446776393	ejercicio4.exe	96acac5e67787418
+32	221	7657681759410368	ejercicio4_autogen/timestamp	6d5d6f1c247c450e
+32	221	7657681759410368	ejercicio4_autogen/mocs_compilation.cpp	6d5d6f1c247c450e
+32	221	7657681759410368	D:/UBP/5 POO/Ejercicios/ejercicio4/build/Desktop_Qt_6_8_3_llvm_mingw_64_bit-Debug/ejercicio4_autogen/timestamp	6d5d6f1c247c450e
+32	221	7657681759410368	D:/UBP/5 POO/Ejercicios/ejercicio4/build/Desktop_Qt_6_8_3_llvm_mingw_64_bit-Debug/ejercicio4_autogen/mocs_compilation.cpp	6d5d6f1c247c450e
+225	2353	7657681761392768	CMakeFiles/ejercicio4.dir/widget.cpp.obj	c41373bd664eec8b
+222	2417	7657681761353443	CMakeFiles/ejercicio4.dir/main.cpp.obj	38281d03a10b0491
+2417	2517	7657681783200656	ejercicio4.exe	96acac5e67787418

@@ -1,0 +1,12 @@
+# ninja log v6
+16	266	7657392407899841	ejercicio1_autogen/timestamp	1499596457be3f27
+16	266	7657392407899841	ejercicio1_autogen/mocs_compilation.cpp	1499596457be3f27
+16	266	7657392407899841	D:/UBP/5 POO/Ejercicios/ejercicio1/build/Desktop_Qt_6_8_3_llvm_mingw_64_bit-Debug/ejercicio1_autogen/timestamp	1499596457be3f27
+16	266	7657392407899841	D:/UBP/5 POO/Ejercicios/ejercicio1/build/Desktop_Qt_6_8_3_llvm_mingw_64_bit-Debug/ejercicio1_autogen/mocs_compilation.cpp	1499596457be3f27
+269	366	7657392408478310	CMakeFiles/ejercicio1.dir/ejercicio1_autogen/mocs_compilation.cpp.obj	bdb6da060a57cec8
+20	153	7657393989112288	ejercicio1_autogen/timestamp	1499596457be3f27
+20	153	7657393989112288	ejercicio1_autogen/mocs_compilation.cpp	1499596457be3f27
+20	153	7657393989112288	D:/UBP/5 POO/Ejercicios/ejercicio1/build/Desktop_Qt_6_8_3_llvm_mingw_64_bit-Debug/ejercicio1_autogen/timestamp	1499596457be3f27
+20	153	7657393989112288	D:/UBP/5 POO/Ejercicios/ejercicio1/build/Desktop_Qt_6_8_3_llvm_mingw_64_bit-Debug/ejercicio1_autogen/mocs_compilation.cpp	1499596457be3f27
+155	1132	7657393990452612	CMakeFiles/ejercicio1.dir/main.cpp.obj	a75a86a66c152114
+1136	1430	7657394000263458	ejercicio1.exe	3adaaf2a740549a9
