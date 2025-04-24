@@ -19,8 +19,14 @@ public:
 
 private:
     Ui::Login *ui;
+    QNetworkAccesManager *netManagerBg;
+    QPixmap pixmapBg;
+
+    void descargarFondo();
+    void aplicarFondo();
 
 private slots:
     void slot_validarUsuario();
+    void slot_fondoDescargado(QNetworkReply*);
 };
 #endif // LOGIN_H
