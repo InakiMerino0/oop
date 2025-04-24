@@ -12,7 +12,7 @@ Login::Login(QWidget *parent)
     ui->setupUi(this);
 
     connect( ui->pbIngresar, SIGNAL(pressed()), this, SLOT(slot_validarUsuario()));
-    connect( netManager, &QNetworkAccessManager::finished, this, &Login::onClimaRespuesta);
+    connect( netManager, SIGNAL(finished(QNetworkReply*)), this, SLOT(onClimaRespuesta(QNetworkReply*)));
 
     solicitarClima();
 }
@@ -55,7 +55,7 @@ void Login::onClimaRespuesta(QNetworkReply *reply) {
         double temp = cw.value("temperature").toDouble();
 
         // Poner en el QLabel (asume que existe ui->lblTemp):
-        ui->lTemperatura->setText(QString::number(temp, 'f', 1) + " °C");
+        ui->lTemperatura->setText("Temperatura en Córdoba: " + QString::number(temp, 'f', 1) + " °C");
     } else {
         ui->lTemperatura->setText("Error al cargar clima");
     }
