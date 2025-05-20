@@ -111,12 +111,20 @@ void GameWidget::onMainTimer() {
 void GameWidget::spawnPajaro() {
     if (m_isGameOver) return;
 
+    // Para debug:
+    qDebug() << "SpawnPajaro timeout";
+
     // Tres alturas posibles
     int altos[3] = { GROUND_Y - 60, GROUND_Y - 100, GROUND_Y - 140 };
     int idx = QRandomGenerator::global()->bounded(3);
-    Pajaro *p = new Pajaro(altos[idx], BASE_SPEED * m_speedFactor, this);
+
+    Pajaro *p = new Pajaro(altos[idx],
+                           BASE_SPEED * m_speedFactor,
+                           this);
+    p->show();                    // <-- MUY IMPORTANTE
     m_pajaros.push_back(p);
 }
+
 
 void GameWidget::gameOver() {
     m_isGameOver = true;

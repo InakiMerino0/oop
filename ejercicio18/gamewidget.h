@@ -6,6 +6,8 @@
 #include <vector>
 #include "TRex.h"
 #include "Pajaro.h"
+#include <QPaintEvent>    // para paintEvent
+#include <QKeyEvent>      // para keyPressEvent
 
 class GameWidget : public QWidget {
     Q_OBJECT
@@ -13,6 +15,7 @@ public:
     explicit GameWidget(QWidget *parent = nullptr);
 
 protected:
+    // Estas dos deben estar declaradas aquí para que el linker las encuentre:
     void paintEvent(QPaintEvent *event) override;
     void keyPressEvent(QKeyEvent *event) override;
 
