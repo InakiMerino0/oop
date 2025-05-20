@@ -4,10 +4,12 @@
 #include <QRandomGenerator>
 #include <QMessageBox>
 
-static const int CACTUS_WIDTH  = 20;
-static const int CACTUS_HEIGHT = 40;
-static const int GROUND_Y      = 300;
-static const int BASE_SPEED    = 5;
+static const int CACTUS_WIDTH   = 10;   // más estrechos
+static const int CACTUS_HEIGHT  = 30;   // un poco más bajos
+static const int GROUND_Y       = 300;
+static const int BASE_SPEED     = 8;    // más velocidad base
+static const int MIN_GAP        = 150;  // distancia mínima entre cactus
+static const int MAX_GAP        = 300;  // distancia máxima
 
 GameWidget::GameWidget(QWidget *parent)
     : QWidget(parent),
@@ -63,20 +65,28 @@ void GameWidget::keyPressEvent(QKeyEvent *e) {
 void GameWidget::onMainTimer() {
     if (m_isGameOver) return;
 
-    // Mover cactus
+    // 1) Mover todos los cactus hacia la izquierda
     for (auto &r : m_cactus) {
         r.translate(-BASE_SPEED * m_speedFactor, 0);
     }
-    // Eliminar fuera de pantalla
-    while (!m_cactus.empty() && m_cactus.front().right() < 0)
-        m_cactus.erase(m_cactus.begin());
 
-    // Generar nuevo cactus si hace falta
-    if (m_cactus.empty() || m_cactus.back().x() < width() - 200) {
-        m_cactus.push_back(QRect(width(), GROUND_Y, CACTUS_WIDTH, CACTUS_HEIGHT));
+    // 2) Eliminar cactus fuera de pantalla
+    while (!m_cactus.empty() && m_cactus.front().right() < 0) {
+        m_cactus.erase(m_cactus.begin());
     }
 
-    // Chequear colisión con cactus
+    // 3) Generar nuevo cactus con separación aleatoria
+    if (m_cactus.empty() ||
+        (width() - m_cactus.back().x()) >
+            QRandomGenerator::global()->bounded(MIN_GAP, MAX_GAP))
+    {
+        // Crea un cactus en el suelo
+        m_cactus.push_back(
+            QRect(width(), GROUND_Y, CACTUS_WIDTH, CACTUS_HEIGHT)
+            );
+    }
+
+    // 4) Colisión Trex vs cactus
     QRect trexBox = m_trex->hitBox();
     for (auto &r : m_cactus) {
         if (r.intersects(trexBox)) {
@@ -84,7 +94,8 @@ void GameWidget::onMainTimer() {
             return;
         }
     }
-    // Chequear colisión con pájaros
+
+    // 5) Colisión Trex vs pájaros
     for (auto *b : m_pajaros) {
         if (b->hitBox().intersects(trexBox)) {
             gameOver();
@@ -92,8 +103,10 @@ void GameWidget::onMainTimer() {
         }
     }
 
+    // 6) Redibujar la escena
     update();
 }
+
 
 void GameWidget::spawnPajaro() {
     if (m_isGameOver) return;
