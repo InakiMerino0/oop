@@ -14,6 +14,7 @@ static const int MAX_GAP        = 300;  // distancia máxima
 GameWidget::GameWidget(QWidget *parent)
     : QWidget(parent),
     m_speedFactor(1),
+    m_birdRequested(false),
     m_isGameOver(false)
 {
     setFixedSize(600, 350);

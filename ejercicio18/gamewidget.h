@@ -31,6 +31,7 @@ private:
     QTimer               *m_mainTimer;
     QTimer               *m_spawnTimer;
     int                    m_speedFactor;
+    bool                   m_birdRequested;
     bool                   m_isGameOver;
 
     void resetGame();
