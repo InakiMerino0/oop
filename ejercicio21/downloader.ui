@@ -13,6 +13,65 @@
   <property name="windowTitle">
    <string>Downloader</string>
   </property>
+  <widget class="QLineEdit" name="lineEditUrl">
+   <property name="geometry">
+    <rect>
+     <x>110</x>
+     <y>90</y>
+     <width>581</width>
+     <height>28</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButtonCarpeta">
+   <property name="geometry">
+    <rect>
+     <x>110</x>
+     <y>130</y>
+     <width>83</width>
+     <height>29</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Carpeta</string>
+   </property>
+  </widget>
+  <widget class="QTextEdit" name="textEditLog">
+   <property name="geometry">
+    <rect>
+     <x>210</x>
+     <y>200</y>
+     <width>321</width>
+     <height>211</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QLabel" name="labelCarpeta">
+   <property name="geometry">
+    <rect>
+     <x>570</x>
+     <y>240</y>
+     <width>63</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Carpeta</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButtonDescargar">
+   <property name="geometry">
+    <rect>
+     <x>230</x>
+     <y>130</y>
+     <width>83</width>
+     <height>29</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Descargar</string>
+   </property>
+  </widget>
  </widget>
  <resources/>
  <connections/>
