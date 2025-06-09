@@ -1,9 +1,0 @@
-D:/UBP/5 POO/Ejercicios/ejercicio4/build/Desktop_Qt_6_8_3_llvm_mingw_64_bit-Debug/CMakeFiles/ejercicio4.dir
-D:/UBP/5 POO/Ejercicios/ejercicio4/build/Desktop_Qt_6_8_3_llvm_mingw_64_bit-Debug/CMakeFiles/edit_cache.dir
-D:/UBP/5 POO/Ejercicios/ejercicio4/build/Desktop_Qt_6_8_3_llvm_mingw_64_bit-Debug/CMakeFiles/rebuild_cache.dir
-D:/UBP/5 POO/Ejercicios/ejercicio4/build/Desktop_Qt_6_8_3_llvm_mingw_64_bit-Debug/CMakeFiles/list_install_components.dir
-D:/UBP/5 POO/Ejercicios/ejercicio4/build/Desktop_Qt_6_8_3_llvm_mingw_64_bit-Debug/CMakeFiles/install.dir
-D:/UBP/5 POO/Ejercicios/ejercicio4/build/Desktop_Qt_6_8_3_llvm_mingw_64_bit-Debug/CMakeFiles/install/local.dir
-D:/UBP/5 POO/Ejercicios/ejercicio4/build/Desktop_Qt_6_8_3_llvm_mingw_64_bit-Debug/CMakeFiles/install/strip.dir
-D:/UBP/5 POO/Ejercicios/ejercicio4/build/Desktop_Qt_6_8_3_llvm_mingw_64_bit-Debug/CMakeFiles/ejercicio4_autogen_timestamp_deps.dir
-D:/UBP/5 POO/Ejercicios/ejercicio4/build/Desktop_Qt_6_8_3_llvm_mingw_64_bit-Debug/CMakeFiles/ejercicio4_autogen.dir
