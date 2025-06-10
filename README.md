@@ -1,6 +1,6 @@
-# Ejercicios de Programaci\u00f3n Orientada a Objetos
+# Ejercicios de Programacion Orientada a Objetos
 
-Este repositorio contiene distintos proyectos en C++ y Qt desarrollados para practicar conceptos de programaci\u00f3n orientada a objetos. Los ejercicios est\u00e1n organizados en carpetas independientes y abarcan desde ejemplos b\u00e1sicos hasta peque\u00f1as aplicaciones con interfaz gr\u00e1fica.
+Este repositorio contiene distintos proyectos en C++ y Qt desarrollados para practicar conceptos de programacion orientada a objetos. Los ejercicios estan organizados en carpetas independientes y abarcan desde ejemplos basicos hasta pequeñas aplicaciones con interfaz grafica.
 
 A continuaci\u00f3n se describe brevemente el contenido de cada directorio:
 
