@@ -2,7 +2,7 @@
 
 Este repositorio contiene distintos proyectos en C++ y Qt desarrollados para practicar conceptos de programacion orientada a objetos. Los ejercicios estan organizados en carpetas independientes y abarcan desde ejemplos basicos hasta pequeñas aplicaciones con interfaz grafica.
 
-A continuaci\u00f3n se describe brevemente el contenido de cada directorio:
+A continuacion se describe brevemente el contenido de cada directorio:
 
 - **ejercicio1F**: clase `Poste` y ordenamiento de objetos.
 - **ejercicio2F**: ordenamiento de expresiones en un `vector`.
